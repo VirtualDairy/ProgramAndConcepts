@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace WebApplication1.Controllers.v2
+namespace ApiVersioningDemo.Controllers.v2
 {
 
     [ApiController]

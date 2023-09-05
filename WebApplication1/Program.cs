@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc.ApiExplorer;
 using Microsoft.AspNetCore.Mvc.Versioning;
-using WebApplication1;
+using ApiVersioningDemo;
 
 var builder = WebApplication.CreateBuilder(args);
 
